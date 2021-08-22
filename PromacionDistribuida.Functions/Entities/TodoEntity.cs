@@ -14,4 +14,3 @@ namespace PromacionDistribuida.Functions.Entities
         public bool IsCompleted { get; set; }
     }
 }
-}

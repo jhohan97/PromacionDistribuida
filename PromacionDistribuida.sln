@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31613.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PromacionDistribuida.Common", "PromacionDistribuida.Common\PromacionDistribuida.Common.csproj", "{1A737FF6-CBD5-40C1-8613-F9FB29C3F785}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PromacionDistribuida.Common", "PromacionDistribuida.Common\PromacionDistribuida.Common.csproj", "{1A737FF6-CBD5-40C1-8613-F9FB29C3F785}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PromacionDistribuida.Functions", "PromacionDistribuida.Functions\PromacionDistribuida.Functions.csproj", "{79276DC9-ADFA-4409-BA8C-14FB502060A1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PromacionDistribuida.Functions", "PromacionDistribuida.Functions\PromacionDistribuida.Functions.csproj", "{79276DC9-ADFA-4409-BA8C-14FB502060A1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PromacionDistribuida.Tests", "PromacionDistribuida.Tests\PromacionDistribuida.Tests.csproj", "{7FA7949B-52F6-4208-8804-421C3DA032F8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PromacionDistribuida.Tests", "PromacionDistribuida.Tests\PromacionDistribuida.Tests.csproj", "{7FA7949B-52F6-4208-8804-421C3DA032F8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
